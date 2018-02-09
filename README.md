@@ -4,6 +4,7 @@
 
 1. You are tasked to build a fan page for your favorite artist.
 2. Change the `title` element of your web page to "_Artist Name_ Fan Page" (replace Artist Name with the actual name of artist)
+3. In the assets folder you will find a mockup of what the website could potentially look like.
 
 ### The layout will have three sections:
 
