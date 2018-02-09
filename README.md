@@ -9,7 +9,7 @@
 
 1. Header
 2. Artist Information
-3. Music Videos
+3. Music Video
 
 ### 1. Header
 
@@ -32,7 +32,7 @@
 6. Inside the `div` element, create an ordered list with the `ol` tag, within the ordered list create 5 list items with the `li` tag. List 1 fact about the artist per `li` tag.
 7. Inside the `div` element, create an `a` tag and set the `href` to the artist's official website url, and insert "Visit Official Website" as the content for the `a` tag.
 
-### 3. Music Videos
+### 3. Music Video
 
 1. Create a `section` element with an `id` of "music-video".
 2. Inside of the header element, create a `div` element with a `class` of "content".
