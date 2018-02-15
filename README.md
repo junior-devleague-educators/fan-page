@@ -54,11 +54,11 @@ When you are done with the above requirements, you may complete bonus stretch go
 1. Select the `content` class and change the `background-color` to your choosing.
 2. Within the `content` code block add a `margin` property and set it's value to `auto`.
 3. Within the `content` code block add a `width` property and set it's value to `800px`.
-4. Select the `ul` element and add a `list-style` property and set it's value to `none`.
+4. Select the `ol` element and make the font size larger.
 5. Select the `gallery` class and change the `background-color` to your choosing.
 6. Select the `gallery` class and add a `text-align` property and set it's value to `center`.
 7. Select the `artist-image` class and add a `width` property and set it's value to `200px`.
-8. Select the `bio` class and change the font to your choosing. Import a font from google fonts.
+8. Import a font from google fonts. Chane the font of your `body` to a font of your choosing.
 9. Remove the underline from all links.
 10. Change the color of all links when you hover over it.
 11. Change the color of a `visited` link.
@@ -66,3 +66,11 @@ When you are done with the above requirements, you may complete bonus stretch go
 13. Center the links in your nav bar.
 14. Center all header tags (h1, h2, h3, etc).
 15. Add a background image to the `body` of your web page.
+
+### Stretch Goals
+
+1. Make all of your images the same size.
+2. Import a font from google fonts. Change the font of all header tags (h1, h2, h3, etc) to a font of your choosing.
+3. Remove the bullets from your unordered list.
+4. Select your ordered list and make every other line a different color.
+5. Set the background image in `body` so that the `background-attachment` is fixed and set the value of `background-repeat` so that the background does not repeat. 
