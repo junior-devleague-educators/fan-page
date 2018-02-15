@@ -13,6 +13,8 @@
 2. Artist Information
 3. Music Video
 
+## Part I - HTML ONLY
+
 ### 1. Header
 
 1. Create a `div` element with a `class` of "content".
@@ -45,3 +47,22 @@ When you are done with the above requirements, you may complete bonus stretch go
 2. Add 3 additional sections of your choosing.
 3. If you created 3 additional sections, add 3 additional links to the nav section and set the href to jump to the correct section.
 4. Create a table with the artist's album names and the year the album was released.
+
+
+## Part II - CSS
+
+1. Select the `content` class and change the `background-color` to your choosing.
+2. Within the `content` code block add a `margin` property and set it's value to `auto`.
+3. Within the `content` code block add a `width` property and set it's value to `800px`.
+4. Select the `ul` element and add a `list-style` property and set it's value to `none`.
+5. Select the `gallery` class and change the `background-color` to your choosing.
+6. Select the `gallery` class and add a `text-align` property and set it's value to `center`.
+7. Select the `artist-image` class and add a `width` property and set it's value to `200px`.
+8. Select the `bio` class and change the font to your choosing. Import a font from google fonts.
+9. Remove the underline from all links.
+10. Change the color of all links when you hover over it.
+11. Change the color of a `visited` link.
+12. Select the `header-title` and center it.
+13. Center the links in your nav bar.
+14. Center all header tags (h1, h2, h3, etc).
+15. Add a background image to the `body` of your web page.
