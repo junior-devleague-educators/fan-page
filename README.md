@@ -51,18 +51,20 @@ When you are done with the above requirements, you may complete bonus stretch go
 
 ## Part II - CSS
 
-1. Select the `content` class and change the `background-color` to your choosing.
+Add the following styles in the CSS file of your project. 
+
+1. Using the class selector, change the `background-color` of the `content` class to a color of your choosing.
 2. Within the `content` code block add a `margin` property and set it's value to `auto`.
 3. Within the `content` code block add a `width` property and set it's value to `800px`.
-4. Select the `ol` element and make the font size larger.
-5. Select the `gallery` class and change the `background-color` to your choosing.
-6. Select the `gallery` class and add a `text-align` property and set it's value to `center`.
-7. Select the `artist-image` class and add a `width` property and set it's value to `200px`.
+4. Using the element selector, change the font size of the `ol` element to a larger font.
+5. Using the class selector, change the `background-color` of the `gallery` class to a color of your choosing.
+6. Within the `gallery` code block add a `text-align` property and set it's value to `center`.
+7. Using the class selector, add a `width` property to the `artist-image` class and set it's value to `200px`.
 8. Import a font of your choosing from google fonts. Change the font of your `body` to the font you imported from google fonts.
 9. Remove the underline from all links.
-10. Change the color of all links when you hover over it.
-11. Change the color of a `visited` link.
-12. Select the `header-title` id and center it.
+10. Change the color of all links when you hover over them.
+11. Change the color of a `visited` link to a different color after it's been visited.
+12. Using the id selector, center the `header-title` id.
 13. Center the links in your nav bar.
 14. Center all header tags (h1, h2, h3, etc).
 15. Add a background image to the `body` of your web page.
@@ -73,4 +75,5 @@ When you are done with the above requirements, you may complete bonus stretch go
 2. Import a font of your choosing from google fonts. Change the font of all header tags (h1, h2, h3, etc) to a font of your choosing.
 3. Remove the bullets from your unordered list.
 4. Select your ordered list and make every other line a different color.
-5. Set the background image in `body` so that the `background-attachment` is fixed and set the value of `background-repeat` so that the background does not repeat. 
+5. Format the background image in `body` so that the `background-attachment` property is fixed and set the value of `background-repeat` so that the background does not repeat. 
+6. Add 5 additional style properties to any element(s) on your page.
