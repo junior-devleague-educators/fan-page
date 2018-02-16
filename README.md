@@ -4,16 +4,18 @@
 
 1. You are tasked to build a fan page for your favorite artist.
 2. Change the `title` element of your web page to "_Artist Name_ Fan Page" (replace Artist Name with the actual name of artist)
-3. In the assets folder you will find a mockup of what the website could potentially look like.
-4. Don't worry about styling for now, we will move onto that when we get into the CSS portion of class.
+3. There are two parts of the project. The first part focuses only on HTML. The second part will focus on CSS.
+4. Below is an example of what you will be working towards. Don't worry about styling for now, we will move onto that when we get into the CSS portion of class.
+
+![alt text](https://github.com/junior-devleague-educators/fan-page/blob/master/assests/fanpage-mockup.png?raw=true 'Fan Page Wireframe')
+
+## Part I - HTML
 
 ### The layout will have three sections:
 
 1. Header
 2. Artist Information
 3. Music Video
-
-## Part I - HTML ONLY
 
 ### 1. Header
 
@@ -37,7 +39,8 @@
 1. Create a `div` element with a `class` of "content" and an `id` of "music-video".
 2. Inside the `div` element, create an `h2` element with an id of "music-video-title" and insert "_Title of Music Video_ Video" (replace Title of Music Video with the name of the actual music video).
 3. Inside the `div` element, create an `iframe` element and set the `src` to a youtube video link.
-  - iframe example: https://www.w3schools.com/tags/tag_iframe.asp
+
+* iframe example: https://www.w3schools.com/tags/tag_iframe.asp
 
 ### Stretch Goals
 
@@ -48,10 +51,9 @@ When you are done with the above requirements, you may complete bonus stretch go
 3. If you created 3 additional sections, add 3 additional links to the nav section and set the href to jump to the correct section.
 4. Create a table with the artist's album names and the year the album was released.
 
-
 ## Part II - CSS
 
-Add the following styles in the CSS file of your project. 
+Add the following styles in the CSS file of your project.
 
 1. Using the class selector, change the `background-color` of the `content` class to a color of your choosing.
 2. Within the `content` code block add a `margin` property and set it's value to `auto`.
@@ -75,5 +77,5 @@ Add the following styles in the CSS file of your project.
 2. Import a font of your choosing from google fonts. Change the font of all header tags (h1, h2, h3, etc) to a font of your choosing.
 3. Remove the bullets from your unordered list.
 4. Select your ordered list and make every other line a different color.
-5. Format the background image in `body` so that the `background-attachment` property is fixed and set the value of `background-repeat` so that the background does not repeat. 
+5. Format the background image in `body` so that the `background-attachment` property is fixed and set the value of `background-repeat` so that the background does not repeat.
 6. Add 5 additional style properties to any element(s) on your page.
