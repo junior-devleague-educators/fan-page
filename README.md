@@ -7,7 +7,7 @@
 3. There are two parts of the project. The first part focuses only on HTML. The second part will focus on CSS.
 4. Below is an example of what you will be working towards. Don't worry about styling for now, we will move onto that when we get into the CSS portion of class.
 
-![alt text](https://github.com/junior-devleague-educators/fan-page/blob/master/assests/fanpage-mockup.png?raw=true 'Fan Page Wireframe')
+![alt text](https://github.com/junior-devleague-educators/fan-page/blob/master/assets/fanpage-mockup.png?raw=true 'Fan Page Wireframe')
 
 ## Part I - HTML
 
