@@ -29,10 +29,11 @@
 ### 2. Artist Information
 
 1. Create a new `div` element with a `class` of "content" and an `id` of "about-artist".
-2. Inside the `div` element, create 4 `img` elements with a `class` of "artist-image". In each `img` element set the `href` to an image url link of your choice.
-3. Inside the `div` element, create an `h2` element with an id of "artist-facts" and insert "Facts About _Artist Name_" (replace Artist Name with the name of the actual Artist).
-4. Inside the `div` element, create an ordered list with the `ol` tag, within the ordered list create 5 list items with the `li` tag. List 1 fact about the artist per `li` tag.
-5. Inside the `div` element, create an `a` tag and set the `href` to the artist's official website url, and insert "Visit Official Website" as the content for the `a` tag.
+2. Inside the `div` element create another div with a class `gallery`.
+3. Inside the `gallery` div create 4 `img` elements with a `class` of "artist-image". In each `img` element set the `href` to an image url link of your choice.
+4. Inside the `div` element, create an `h2` element with an id of "artist-facts" and insert "Facts About _Artist Name_" (replace Artist Name with the name of the actual Artist).
+5. Inside the `div` element, create an ordered list with the `ol` tag, within the ordered list create 5 list items with the `li` tag. List 1 fact about the artist per `li` tag.
+6. Inside the `div` element, create an `a` tag and set the `href` to the artist's official website url, and insert "Visit Official Website" as the content for the `a` tag.
 
 ### 3. Music Video
 
